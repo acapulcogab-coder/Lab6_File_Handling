@@ -1,0 +1,12 @@
+PYTHON FILE-HANDLING PROCESSING REPORT
+--------------------------------------
+Last Name: Acapulco
+student id: TUPM-26-1874
+Seed Digit: 4
+ID sum: 28
+Verification Value: 228
+Dataset Sample Size: 78
+Valid Records: 78
+Average Global Active Power: 3.973
+JSON File: Acapulco_TUPM-26-1874_record.json
+Backup File: Acapulco_TUPM-26-1874_record.csv
